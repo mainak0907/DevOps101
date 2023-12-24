@@ -10,6 +10,5 @@ DevOps is a culture that improves an Organisation's ability to deliver applicati
 
 <img width="621" alt="image" src="https://github.com/mainak0907/DevOps101/assets/88925745/43078398-a8e5-4a7a-956e-74d93b0e11e4">
 
-
-
+To remove this manual process, and ensure smooth delivery and development , DevOps is needed
 
