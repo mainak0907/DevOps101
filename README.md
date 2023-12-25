@@ -14,5 +14,11 @@ To remove this manual process, and ensure smooth delivery and development, DevOp
 
 ## Concept of Virtual Machines and why was it needed
 
-Earlier , the server management was done this way -
+Earlier, the server management was done this way -
+
 <img width="491" alt="image" src="https://github.com/mainak0907/DevOps101/assets/88925745/43d8812a-94a9-403a-b9f5-537cf22cfdde">
+
+Virtual Machines are logical segmentation in the physical server, which has its own computing resources and dedicated hardware , and this segmentation is managed by the Hypervisor. In this way , the entire capacity of a server can be used efficiently and Every VM is INDEPENDENT of other VMs .
+
+<img width="601" alt="image" src="https://github.com/mainak0907/DevOps101/assets/88925745/945adf11-e02d-408e-8eb7-f78b10f659ab">
+
