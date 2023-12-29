@@ -22,3 +22,12 @@ Virtual Machines are logical segmentation in the physical server, which has its 
 
 <img width="601" alt="image" src="https://github.com/mainak0907/DevOps101/assets/88925745/945adf11-e02d-408e-8eb7-f78b10f659ab">
 
+## Shell Scripting 
+
+### First let's understand the Concept of Operating System 
+
+<img width="571" alt="image" src="https://github.com/mainak0907/DevOps101/assets/88925745/84b1cd4e-117f-43c1-bbac-435a47484d63">
+
+
+
+
